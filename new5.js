@@ -9524,7 +9524,7 @@ $(document).ready(function () {
                 html += `<span class="livepana"> Loading...</span>`;
             }
                         
-            if (toShow[5].trim()) {
+            if (toShow[5] && toShow[5].trim()) {
                 html += `<span class="livepana"> - ` + toShow[5] + `</span>`
             }
                         
@@ -9535,7 +9535,7 @@ $(document).ready(function () {
                 <div id="live-update-` + toShow[1] + `" class="alert alert-info alert-dismissible fade in liveupdate text-center">
                     <div class="livename">` + toShow[2] + `</div>
                     <div data-update="live-update-` + toShow[1] + `">`;
-            if (toShow[3].trim()) {
+            if (toShow[3] && toShow[3].trim()) {
                 html += `<span class="livepana">` + toShow[3] + `</span>`;
             } else {
                 html += `<span class="livepana">Loading...</span>`;
