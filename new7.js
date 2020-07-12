@@ -9511,20 +9511,19 @@ $(document).ready(function () {
         var toShow = marqueAsArray[marqueCounter % marqueAsArray.length];
         if (!toShow) return;
         var html = '';
-        // var toShowLen = toShow.length;
         if (toShow[0] === 'mumbai') {
             html = `
                 <div id="live-update-` + toShow[1] + `" class="alert alert-info fade in liveupdate text-center">
                     <div class="livename">` + toShow[2] + `</div> 
                     <div data-update="live-update-` + toShow[1] + `">`;
-            if (toShow[3].trim()) {
+            if ((toShow[3].trim() !== '') && toShow[4].length) {
                 html += `<span class="livepana">` + toShow[3] + ` - </span>
                         <span class="livejodi ` + (reds.includes(toShow[4]) ? 'makeRed' : 'makeBlack') + `">` + toShow[4] + `</span>`;
             } else {
                 html += `<span class="livepana"> Loading...</span>`;
             }
                         
-            if (toShow[5] && toShow[5].trim()) {
+            if (toShow[5] && toShow[5].trim() !== '') {
                 html += `<span class="livepana"> - ` + toShow[5] + `</span>`
             }
                         
@@ -9535,7 +9534,7 @@ $(document).ready(function () {
                 <div id="live-update-` + toShow[1] + `" class="alert alert-info fade in liveupdate text-center">
                     <div class="livename">` + toShow[2] + `</div>
                     <div data-update="live-update-` + toShow[1] + `">`;
-            if (toShow[3] && toShow[3].trim()) {
+            if (toShow[3] && toShow[3].trim() !== '') {
                 html += `<span class="livepana">` + toShow[3] + `</span>`;
             } else {
                 html += `<span class="livepana">Loading...</span>`;
@@ -9608,7 +9607,7 @@ $(document).ready(function () {
                                         <span class="livepana" data-pana="">` + a1a2a3 + ` - </span>
                                         <span class="livejodi gamename-head ` + (reds.includes(a) ? 'makeRed' : 'makeBlack') + `">` + a + `</span>`;  
                 }
-                if (a4a5a6.trim()) {
+                if (a4a5a6.trim() !== '') {
                     html +=             `<span class="livepana"> - ` + a4a5a6 + `</span>`;
                 }
                         html += `</div>
@@ -9753,7 +9752,7 @@ $(document).ready(function () {
     		    	else updateRef.addClass("makeBlack");
     		    }
     		    marqueAsArray = marqueAsArray.map(function (item) {
-    		        if (item[1] === res.target) return  [item[0], item[1], item[2]].concat([res.a1 + res.a2 + res.a3, res.a, res.a4 + res.a5 + res.a6]);
+    		        if (item[1] === res.target) return  [item[0], item[1], item[2]].concat([res.a1 + res.a2 + res.a3, res.a.join(''), res.a4 + res.a5 + res.a6]);
     		        else return item;
     		    });
     		} else if (res.type == 'dehli') {
