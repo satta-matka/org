@@ -9514,7 +9514,7 @@ $(document).ready(function () {
         // var toShowLen = toShow.length;
         if (toShow[0] === 'mumbai') {
             html = `
-                <div id="live-update-` + toShow[1] + `" class="alert alert-info alert-dismissible fade in liveupdate text-center">
+                <div id="live-update-` + toShow[1] + `" class="alert alert-info fade in liveupdate text-center">
                     <div class="livename">` + toShow[2] + `</div> 
                     <div data-update="live-update-` + toShow[1] + `">`;
             if (toShow[3].trim()) {
@@ -9532,7 +9532,7 @@ $(document).ready(function () {
     			</div>`;
         } else if (toShow[0] === 'delhi') {
             html = `
-                <div id="live-update-` + toShow[1] + `" class="alert alert-info alert-dismissible fade in liveupdate text-center">
+                <div id="live-update-` + toShow[1] + `" class="alert alert-info fade in liveupdate text-center">
                     <div class="livename">` + toShow[2] + `</div>
                     <div data-update="live-update-` + toShow[1] + `">`;
             if (toShow[3] && toShow[3].trim()) {
