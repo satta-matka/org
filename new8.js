@@ -9535,7 +9535,7 @@ $(document).ready(function () {
                     <div class="livename">` + toShow[2] + `</div>
                     <div data-update="live-update-` + toShow[1] + `">`;
             if (toShow[3] && toShow[3].trim() !== '') {
-                html += `<span class="livepana">` + toShow[3] + `</span>`;
+                html += `<span class="livejodi">` + toShow[3] + `</span>`;
             } else {
                 html += `<span class="livepana">Loading...</span>`;
             }
@@ -9760,7 +9760,7 @@ $(document).ready(function () {
     			$('#a_' + res.target).text('[' + res.a.join('') + ']');
     			$('#cm1_' + res.target).text(res.c);
     			var updateHtml = `
-    		        <span class="livepana" data-pana="">` + res.a.join('') + `</span>
+    		        <span class="livejodi" data-pana="">` + res.a.join('') + `</span>
     		    `;
     // 			add realtime data
     			$('[data-update="live-update-' + res.target + '"]').html(updateHtml);
