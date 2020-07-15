@@ -472,7 +472,7 @@ html+=`</div>
     			</div>`;}else if(toShow[0]==='delhi'){html=`
                 <div id="live-update-`+toShow[1]+`" class="alert alert-info fade in liveupdate text-center">
                     <div class="livename">`+toShow[2]+`</div>
-                    <div data-update="live-update-`+toShow[1]+`">`;if(toShow[3]&&toShow[3].trim()!==''){html+=`<span class="livejodi">`+toShow[3]+`</span>`;}else{html+=`<span class="livepana">Loading...</span>`;}
+                    <div data-update="live-update-`+toShow[1]+`">`;if(toShow[3]&&toShow[3].trim()!==''){html+=`<span class="livejodi gamename-head">`+toShow[3]+`</span>`;}else{html+=`<span class="livepana">Loading...</span>`;}
 html+=`</div>
     			</div>
             `;}
@@ -526,7 +526,7 @@ var updateRef=$('[data-update-jodi="live-update-'+res.target+'"]');var updateHtm
 else updateRef.addClass("makeRed");}else{if(updateRef.hasClass("makeRed")){updateRef.removeClass("makeRed");updateRef.addClass("makeBlack");}
 else updateRef.addClass("makeBlack");}
 marqueAsArray=marqueAsArray.map(function(item){if(item[1]===res.target)return[item[0],item[1],item[2]].concat([res.a1+res.a2+res.a3,res.a.join(''),res.a4+res.a5+res.a6]);else return item;});}else if(res.type=='dehli'){console.log('dehli');$('#a_'+res.target).text('['+res.a.join('')+']');$('#cm1_'+res.target).text(res.c);var updateHtml=`
-    		        <span class="livejodi" data-pana="">`+res.a.join('')+`</span>
+    		        <span class="livejodi gamename-head" data-pana="">`+res.a.join('')+`</span>
     		    `;$('[data-update="live-update-'+res.target+'"]').html(updateHtml);$('[data-update-loader="live-update-'+res.target+'"]').remove();marqueAsArray=marqueAsArray.map(function(item){if(item[0]===res.target)return[item[0],item[1]].push(res.a);else return item;});}else if(res.type=='star'){console.log('star');var target=res.target;var op=JSON.parse(res.op);var jodi=JSON.parse(res.jodi);var time_index=op.indexOf("");op.forEach(function(item,index){if(item){$("#"+target+"_pana_"+index).text(item);}
 if(jodi[index]){$("#"+target+"_ank_"+index).text(jodi[index]);}
 if(time_index==0||time_index==index+1){var formated_time=res.c.split(":").slice(0,-1).join(":");var antimeridian=res.c.split(" ")[1];$("#"+target+"_time_"+index).text(formated_time+" "+antimeridian);}});}}
