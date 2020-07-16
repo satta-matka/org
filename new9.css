@@ -2555,8 +2555,8 @@ td.HEADLINES{background-color:#ff1493}
 .arrow{font-size:4.2vw;margin:9vw 7vw}
 .starline{height:15vw;display:flex;align-items:center;justify-content:center;overflow:auto;white-space:nowrap}
 }
-@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/customfont.woff2) format('woff2');font-weight:400;font-style:normal}
-.fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased}
+@font-face{font-family:fontawesome;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/fontawesome-webfont.woff2) format('woff2');font-weight:400;font-style:normal}
+.fa{display:inline-block;font:normal normal normal 14px/1 fontawesome;font-size:inherit;-webkit-font-smoothing:antialiased}
 .fa-bars:before,.fa-navicon:before,.fa-reorder:before{content:"\f0c9"}
 .fa-lock:before{content:"\f023"}
 .fa-user:before{content:"\f007"}
