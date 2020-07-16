@@ -1260,7 +1260,7 @@ body,html{width:100%;margin:0;padding:0}
 .text{color:#ff1493;text-align:justify;border:4px solid #ff1493;font-size:18px;padding-top:3px}
 table.x-chart-div{background-color:#fff;max-width:500px;border:5px solid #5d26a5;border-bottom:none;border-top:none;align:center!important;text-align:center!important;table-layout:fixed;margin:0 auto;width:100%}
 .single-text,.single-text-jodi,.vertical-data,.x-chart-div th,.xchart-date{text-align:center;font-weight:700}
-.single-text-jodi{font-size:25px!important;text-align: center;font-weight:bold;}
+.single-text-jodi{font-size:25px!important;text-align: center;font-weight:bold;border-left:1px solid #000;}
 .single-text{font-size:22px!important}
 .vertical-data,.xchart-date{font-size:12px!important;font-family:Comic Sans MS;text-shadow:.5px .5px #fff00e}
 .xchart-date{padding-top:6px!important;padding-bottom:6px!important}
@@ -1268,7 +1268,7 @@ table.x-chart-div{background-color:#fff;max-width:500px;border:5px solid #5d26a5
 @media (max-width:400px){.single-text,.single-text-jodi,.x-chart-div th,.xchart-date{vertical-align:middle!important}
 .single-text,.single-text-jodi{font-family:Comic Sans MS;text-shadow:.2vw .2vw #fff00e}
 table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:none;border-top:none;align:center!important;text-align:center!important;table-layout:fixed;margin:0 auto;width:100%}
-.single-text-jodi{font-size:5.5vw!important;text-align:center;font-weight:700;text-align: center;font-weight:bold}
+.single-text-jodi{font-size:5.5vw!important;text-align:center;font-weight:700;text-align: center;font-weight:bold;border-left:.2vw solid #000;}
 .single-text{font-size:4.6vw!important;text-align:center!important;font-weight:700}
 .vertical-data,.xchart-date{font-family:Comic Sans MS;text-shadow:.1vw .1vw #fff00e;font-weight:550}
 .vertical-data{font-size:2.7vw!important;text-align:center}
