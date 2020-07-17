@@ -2556,7 +2556,7 @@ td.HEADLINES{background-color:#ff1493}
 .starline{height:15vw;display:flex;align-items:center;justify-content:center;overflow:auto;white-space:nowrap}
 }
 @font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/customfont.woff2) format('woff2');font-weight:400;font-style:normal}
-.fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased}
+.fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased;vertical-align: text-top;}
 .fa-cc-visa:before{content:"\61";}
 .fa-commenting-o:before{content:"\62";}
 .fa-comments:before{content:"\63";}
