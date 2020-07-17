@@ -2555,7 +2555,7 @@ td.HEADLINES{background-color:#ff1493}
 .arrow{font-size:4.2vw;margin:9vw 7vw}
 .starline{height:15vw;display:flex;align-items:center;justify-content:center;overflow:auto;white-space:nowrap}
 }
-@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/customfont.woff2) format('woff2');font-weight:400;font-style:normal}
+@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font.woff2) format('woff2');font-weight:400;font-style:normal}
 .fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased;vertical-align: text-top;}
 .fa-cc-visa:before{content:"\61";}
 .fa-commenting-o:before{content:"\62";}
@@ -2565,7 +2565,7 @@ td.HEADLINES{background-color:#ff1493}
 .fa-angle-double-right:before{content:"\66";}
 .fa-arrow-circle-o-right:before{content:"\68";}
 .fa-briefcase:before{content:"\69";}
-.fa-calendar:before{content:"\6a";}
+.fa-area-chart:before{content:"\6a";}
 .fa-calendar-check-o:before{content:"\6b";}
 .fa-calendar-minus-o:before{content:"\6c";}
 .fa-calendar-plus-o:before{content:"\6d";}
@@ -2579,7 +2579,7 @@ td.HEADLINES{background-color:#ff1493}
 .fa-google-plus-square:before{content:"\76";}
 .fa-info-circle:before{content:"\77";}
 .fa-inr:before{content:"\78";}
-.fa-list-ul:before{content:"\79";}
+.fa-line-chart:before{content:"\79";}
 .fa-money:before{content:"\7a";}
 .fa-phone-square:before{content:"\41";}
 .fa-phone:before{content:"\42";}
@@ -2591,7 +2591,7 @@ td.HEADLINES{background-color:#ff1493}
 .fa-rocket:before{content:"\48";}
 .fa-rss-square:before{content:"\49";}
 .fa-sign-out:before{content:"\4a";}
-.fa-table:before{content:"\4c";}
+.fa-bar-chart:before{content:"\4c";}
 .fa-twitter-square:before{content:"\4d";}
 .fa-twitter:before{content:"\4e";}
 .fa-university:before{content:"\4f";}
@@ -2611,7 +2611,7 @@ td.HEADLINES{background-color:#ff1493}
 .fa-chevron-up:before{content:"\32";}
 .fa-envelope:before{content:"\33";}
 .fa-bars:before{content:"\4b";}
-.fa-google-wallet:before{content:"\34";}
+.fa-tags:before{content:"\74";}
 .fa-play:before{content:"\35";}
 .fa-check:before{content:"\36";}
 .fa-times:before{content:"\37";}
