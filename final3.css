@@ -2557,188 +2557,66 @@ td.HEADLINES{background-color:#ff1493}
 }
 @font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/customfont.woff2) format('woff2');font-weight:400;font-style:normal}
 .fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased}
-
-.fa-cc-visa:before {
-  content: "\61";
-}
-.fa-commenting-o:before {
-  content: "\62";
-}
-.fa-comments:before {
-  content: "\63";
-}
-.fa-android:before {
-  content: "\64";
-}
-.fa-angle-double-left:before {
-  content: "\65";
-}
-.fa-angle-double-right:before {
-  content: "\66";
-}
-.fa-arrow-circle-o-right:before {
-  content: "\68";
-}
-.fa-briefcase:before {
-  content: "\69";
-}
-.fa-calendar:before {
-  content: "\6a";
-}
-.fa-calendar-check-o:before {
-  content: "\6b";
-}
-.fa-calendar-minus-o:before {
-  content: "\6c";
-}
-.fa-calendar-plus-o:before {
-  content: "\6d";
-}
-.fa-cc-mastercard:before {
-  content: "\6e";
-}
-.fa-cc-paypal:before {
-  content: "\6f";
-}
-.fa-credit-card:before {
-  content: "\70";
-}
-.fa-envelope-square:before {
-  content: "\71";
-}
-.fa-facebook-square:before {
-  content: "\72";
-}
-.fa-facebook:before {
-  content: "\73";
-}
-.fa-home:before {
-  content: "\75";
-}
-.fa-google-plus-square:before {
-  content: "\76";
-}
-.fa-info-circle:before {
-  content: "\77";
-}
-.fa-inr:before {
-  content: "\78";
-}
-.fa-list-ul:before {
-  content: "\79";
-}
-.fa-money:before {
-  content: "\7a";
-}
-.fa-phone-square:before {
-  content: "\41";
-}
-.fa-phone:before {
-  content: "\42";
-}
-.fa-pencil-square-o:before {
-  content: "\43";
-}
-.fa-pencil-square:before {
-  content: "\44";
-}
-.fa-paypal:before {
-  content: "\45";
-}
-.fa-pied-piper:before {
-  content: "\46";
-}
-.fa-qrcode:before {
-  content: "\47";
-}
-.fa-rocket:before {
-  content: "\48";
-}
-.fa-rss-square:before {
-  content: "\49";
-}
-.fa-sign-out:before {
-  content: "\4a";
-}
-.fa-table:before {
-  content: "\4c";
-}
-.fa-twitter-square:before {
-  content: "\4d";
-}
-.fa-twitter:before {
-  content: "\4e";
-}
-.fa-university:before {
-  content: "\4f";
-}
-.fa-user-times:before {
-  content: "\50";
-}
-.fa-user-plus:before {
-  content: "\51";
-}
-.fa-user:before {
-  content: "\52";
-}
-.fa-usd:before {
-  content: "\53";
-}
-.fa-unlock-alt:before {
-  content: "\54";
-}
-.fa-unlock:before {
-  content: "\55";
-}
-.fa-users:before {
-  content: "\56";
-}
-.fa-user-secret:before {
-  content: "\57";
-}
-.fa-whatsapp:before {
-  content: "\58";
-}
-.fa-youtube-square:before {
-  content: "\59";
-}
-.fa-youtube:before {
-  content: "\5a";
-}
-.fa-check-square:before {
-  content: "\30";
-}
-.fa-check-circle:before {
-  content: "\31";
-}
-.fa-chevron-up:before {
-  content: "\32";
-}
-.fa-envelope:before {
-  content: "\33";
-}
-.fa-bars:before {
-  content: "\4b";
-}
-.fa-google-wallet:before {
-  content: "\34";
-}
-.fa-play:before {
-  content: "\35";
-}
-.fa-check:before {
-  content: "\36";
-}
-.fa-times:before {
-  content: "\37";
-}
-.fa-chevron-left:before {
-  content: "\67";
-}
-.fa-chevron-right:before {
-  content: "\38";
-}
-
+.fa-cc-visa:before{content:"\61";}
+.fa-commenting-o:before{content:"\62";}
+.fa-comments:before{content:"\63";}
+.fa-android:before{content:"\64";}
+.fa-angle-double-left:before{content:"\65";}
+.fa-angle-double-right:before{content:"\66";}
+.fa-arrow-circle-o-right:before{content:"\68";}
+.fa-briefcase:before{content:"\69";}
+.fa-calendar:before{content:"\6a";}
+.fa-calendar-check-o:before{content:"\6b";}
+.fa-calendar-minus-o:before{content:"\6c";}
+.fa-calendar-plus-o:before{content:"\6d";}
+.fa-cc-mastercard:before{content:"\6e";}
+.fa-cc-paypal:before{content:"\6f";}
+.fa-credit-card:before{content:"\70";}
+.fa-envelope-square:before{content:"\71";}
+.fa-facebook-square:before{content:"\72";}
+.fa-facebook:before{content:"\73";}
+.fa-home:before{content:"\75";}
+.fa-google-plus-square:before{content:"\76";}
+.fa-info-circle:before{content:"\77";}
+.fa-inr:before{content:"\78";}
+.fa-list-ul:before{content:"\79";}
+.fa-money:before{content:"\7a";}
+.fa-phone-square:before{content:"\41";}
+.fa-phone:before{content:"\42";}
+.fa-pencil-square-o:before{content:"\43";}
+.fa-pencil-square:before{content:"\44";}
+.fa-paypal:before{content:"\45";}
+.fa-pied-piper:before{content:"\46";}
+.fa-qrcode:before{content:"\47";}
+.fa-rocket:before{content:"\48";}
+.fa-rss-square:before{content:"\49";}
+.fa-sign-out:before{content:"\4a";}
+.fa-table:before{content:"\4c";}
+.fa-twitter-square:before{content:"\4d";}
+.fa-twitter:before{content:"\4e";}
+.fa-university:before{content:"\4f";}
+.fa-user-times:before{content:"\50";}
+.fa-user-plus:before{content:"\51";}
+.fa-user:before{content:"\52";}
+.fa-usd:before{content:"\53";}
+.fa-unlock-alt:before{content:"\54";}
+.fa-unlock:before{content:"\55";}
+.fa-users:before{content:"\56";}
+.fa-user-secret:before{content:"\57";}
+.fa-whatsapp:before{content:"\58";}
+.fa-youtube-square:before{content:"\59";}
+.fa-youtube:before{content:"\5a";}
+.fa-check-square:before{content:"\30";}
+.fa-check-circle:before{content:"\31";}
+.fa-chevron-up:before{content:"\32";}
+.fa-envelope:before{content:"\33";}
+.fa-bars:before{content:"\4b";}
+.fa-google-wallet:before{content:"\34";}
+.fa-play:before{content:"\35";}
+.fa-check:before{content:"\36";}
+.fa-times:before{content:"\37";}
+.fa-chevron-left:before{content:"\67";}
+.fa-chevron-right:before{content:"\38";}
 @media screen and (max-width:480px){.mobileShow{display:inline}
 .laptopShow{display:none!important}
 }
