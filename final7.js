@@ -503,7 +503,7 @@ html+=`</span>`;if(comp2||comp1){html+=`</div>
                                     <span class="jodi-number"></span>`;}else{html+=`
                                         <span class="pana-number vert-center" data-pana="">`+a1a2a3+` - </span>
                                         <span class="jodi-number vert-center `+(reds.includes(a)?'makeRed':'makeBlack')+`">`+a+`</span>`;}
-if(a4a5a6.trim()!==''){html+=`<span class="livepana vert-center"> - `+a4a5a6+`</span>`;}
+if(a4a5a6.trim()!==''){html+=`<span class="pana-number vert-center"> - `+a4a5a6+`</span>`;}
 html+=`</div>
                                 <hr>
                             </div>`;$('#live-updates').append(html);var arr=[];if(a1a2a3.trim()!=='')arr=arr.concat(['mumbai',gameId,gamename,a1a2a3,a]);else arr=arr.concat(['mumbai',gameId,gamename,'','']);if(a4a5a6.trim()!=='')arr=arr.concat([a4a5a6]);else arr=arr.concat(['']);marqueAsArray.push(arr);expiry(gameId);}
