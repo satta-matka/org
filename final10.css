@@ -2635,6 +2635,8 @@ td.HEADLINES{background-color:#ff1493}
 .livejodi{font-size:5vw;}
 #record{right:calc(50% - 15vw);top:55px;width:30vw;height:3vw;display:inline-block;font-size:2vw;-moz-transition:all .7s ease-in-out;-o-transition:all .7s ease-in-out;-webkit-transition:all .7s ease-in-out;transition:all .7s ease-in-out}
 }
+.livename {height: 27px;}
+.data-update {height: 27px;}
 .jodi-number{font-weight:700;}
 .vert-center{vertical-align:middle;}
 .pana-number{font-weight:600;}
