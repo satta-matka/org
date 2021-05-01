@@ -2558,7 +2558,7 @@ td.HEADLINES{background-color:#ff1493}
 .arrow{font-size:4.2vw;margin:9vw 7vw}
 .starline{height:15vw;display:flex;align-items:center;justify-content:center;overflow:auto;white-space:nowrap}
 }
-@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font2.woff2) format('woff2');font-weight:400;font-style:normal}
+@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font.woff2) format('woff2');font-weight:400;font-style:normal}
 .fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased;vertical-align:middle;}
 .fa-cc-visa:before{content:"\61";}
 .fa-commenting-o:before{content:"\62";}
@@ -2621,6 +2621,9 @@ td.HEADLINES{background-color:#ff1493}
 .fa-chevron-left:before{content:"\67";}
 .fa-chevron-right:before{content:"\38";}
 .fa-paper-plane-o:before {content: "\39";}
+.fa-star:before {content: "\34";}
+.fa-star-half-o:before {content: "\21";}
+.fa-star-o:before {content: "\22";}
 @media screen and (max-width:480px){.mobileShow{display:inline}
 .laptopShow{display:none!important}
 }
