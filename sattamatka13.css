@@ -2562,7 +2562,7 @@ td.HEADLINES{background-color:#ff1493}
 
 @media only screen and (max-width:359px){
 .col-xs-6{width:100%!important}
-.blue-box,.brown-box{height:70vw!important}
+.blue-box,.brown-box{height:75vw!important}
 .jodi-number{font-size:12vw!important;text-shadow:0 0 2vw #fff!important}
 .pana-number{font-size:8vw!important;text-shadow:0 0 1vw #fff!important}
 .jodi-btn,.pana-btn{font-size:4vw!important;padding:1vw 4vw;line-height:1.5!important;border-radius:1.2vw!important}
