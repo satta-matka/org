@@ -2544,7 +2544,7 @@ td.HEADLINES{background-color:#ff1493}
 .pana-number{font-size:8vw!important;text-shadow:0 0 1vw #fff!important}
 .jodi-btn,.pana-btn{font-size:4vw!important;padding:.5vw 2vw;line-height:1.5!important;border-radius:1.2vw!important}
 }
-@media screen and (max-width:480px){.blue-box,.brown-box{border:.3vw solid #fff;height:59.5vw;padding:0}
+@media screen and (max-width:480px){.blue-box,.brown-box{border:.3vw solid #fff;height:65.5vw;padding:0}
 .brown-box{background-color:#f2cd98}
 .blue-box{background-color:#5bc0de}
 .resultname{height:11.5vw;font-size:4.7vw;line-height:1;padding-top:2.5vw;text-shadow:0 0 .7vw #fff}
