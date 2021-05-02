@@ -2542,7 +2542,7 @@ td.HEADLINES{background-color:#ff1493}
 .blue-box,.brown-box{height:66vw!important}
 .jodi-number{font-size:12vw!important;text-shadow:0 0 2vw #fff!important}
 .pana-number{font-size:8vw!important;text-shadow:0 0 1vw #fff!important}
-.jodi-btn,.pana-btn{font-size:4vw!important;padding:.5vw 2vw;line-height:1.5!important;border-radius:1.2vw!important}
+.jodi-btn,.pana-btn{font-size:4vw!important;padding:1vw 4vw;line-height:1.5!important;border-radius:1.2vw!important}
 }
 @media screen and (max-width:480px){.blue-box,.brown-box{border:.3vw solid #fff;height:65.5vw;padding:0}
 .brown-box{background-color:#f2cd98}
