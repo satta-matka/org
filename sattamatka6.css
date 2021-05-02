@@ -2621,9 +2621,9 @@ td.HEADLINES{background-color:#ff1493}
 .fa-chevron-left:before{content:"\67";}
 .fa-chevron-right:before{content:"\38";}
 .fa-paper-plane-o:before {content: "\39";}
-.icon-star:before {content: "\34";}
-.icon-star-half-o:before {content: "\21";}
-.icon-star-o:before {content: "\22";}
+.fa-star:before {content: "\34";}
+.fa-star-half-o:before {content: "\21";}
+.fa-star-o:before {content: "\22";}
 @media screen and (max-width:480px){.mobileShow{display:inline}
 .laptopShow{display:none!important}
 }
