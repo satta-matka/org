@@ -2523,7 +2523,7 @@ table#weekly th{color:#333;text-align:center}
 .frequency,td.HEADLINES{color:#fff;text-align:center}
 td.HEADLINES{background-color:#ff1493}
 .box-style{padding-bottom:5px}
-.blue-box,.brown-box{border:1px solid #fff;height:260px;padding:0}
+.blue-box,.brown-box{border:1px solid #fff;height:275px;padding:0}
 .jodi-number{font-size:40px;text-shadow:0 0 5px #fff;align-items:center;justify-content:center}
 .pana-number{font-size:25px;text-shadow:0 0 4px #fff;align-items:center;justify-content:center}
 .starline,.time{align-items:center}
@@ -2536,7 +2536,7 @@ td.HEADLINES{background-color:#ff1493}
 .starline{height:60px;display:flex;justify-content:center;white-space:nowrap}
 #cell-1-table{width:80%;max-width:200px;margin-top:10px}
 #cell-1-table caption,th{text-align:center}
-.frequency{width:130px;left:50%;transform:translateX(-50%);padding:.1em;position:relative;letter-spacing:.1em;text-shadow:0 -1px 0 rgba(0,0,0,.3);background:-webkit-linear-gradient(right,#c00,red,#c00);display:inline-block}
+.frequency{width:130px;left:50%;transform:translateX(-50%);padding:.1em;position:relative;letter-spacing:.1em;text-shadow:0 -1px 0 rgba(0,0,0,.3);background:-webkit-linear-gradient(right,#c00,red,#c00);display:inline-block;margin-top: 5px;}
 #frequency:after,#frequency:before,.frequency:after,.frequency:before{content:"";bottom:-.5em;position:absolute;display:block}
 .frequency:after,.frequency:before{width:1.8em;border:.9em solid #c00;z-index:-2}
 .frequency:before{left:-1.35em;border-right-width:.75em;border-left-color:transparent}
@@ -2546,7 +2546,7 @@ td.HEADLINES{background-color:#ff1493}
 #frequency:after{right:0;border-width:.5em .5em 0 0}
 .makeRed{color:red}
 .makeBlack{color:#000}
-.resultname{height:55px;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;text-shadow:0 0 3px #fff}
+.resultname{height:65px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800;text-shadow:0 0 3px #fff}
 .livename {height: 27px;}
 .data-update {height: 27px;}
 .jodi-number{font-weight:700;}
