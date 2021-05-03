@@ -2584,7 +2584,7 @@ td.HEADLINES{background-color:#ff1493}
 .pana-number{font-size:6vw;text-shadow:0 0 .8vw #fff}
 .time{font-size:2.9vw;margin-top:1.2vw;align-items:center;justify-content:center;text-transform:uppercase}
 .arrow{font-size:4.2vw;margin:9vw 7vw}
-.starline{height:15vw;display:flex;align-items:center;justify-content:center;overflow:auto;white-space:nowrap}
+.starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
 .mobileShow{display:inline}
 .laptopShow{display:none!important}
 .liveupdate{margin-top:-6px;padding-top:0px;padding-bottom:0px;center:0px;z-index:999;font-weight:900;min-height:54px;max-height:54px;}
