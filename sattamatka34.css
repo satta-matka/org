@@ -2551,7 +2551,7 @@ td.HEADLINES{background-color:#ff1493}
 .data-update {height: 27px;}
 .jodi-number{font-weight:800;}
 .vert-center{vertical-align:middle;}
-.pana-number{font-weight:600;}
+.pana-number{color:#000;font-weight:600;text-shadow:-0.1px 0.1px 0 #fff, 0.1px 0.1px 0 #fff, 0.1px 0.1px 0 #fff, -0.1px -0.1px 0 #fff;}
 .update-item{min-height:60px;}
 .gamename-head{font-size:22px;font-weight:bold;margin-top:-10px;}
 .superLoader{width:52px;font-size:10px;height:15px;margin-right:-60px;margin-top:-10px;}
@@ -2577,7 +2577,7 @@ td.HEADLINES{background-color:#ff1493}
 .livejodi{font-size:5vw;}
 .mobileShow{display:inline}
 .pana{color: #000;margin-top:4vw;margin-bottom:4vw;font-size:7.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
-.pana-number{font-size:8vw!important;text-shadow:0 0 1vw #fff!important}
+.pana-number{color:#000;font-size:8vw!important;text-shadow:-0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, -0.1vw -0.1vw 0 #fff;}
 .resultname{height:16vw;font-weight: 800;font-size:7.5vw;line-height:1;padding-top:8vw;padding-bottom: 8vw;text-shadow:0 0 .7vw #fff}
 .starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
 .single-text,.single-text-jodi,.x-chart-div th,.xchart-date{vertical-align:middle!important}
@@ -2611,7 +2611,7 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .livejodi{font-size:5vw;}
 .mobileShow{display:inline}
 .pana{color: #000;margin-top:2.6vw;margin-bottom:2.6vw;font-size:4.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
-.pana-number{font-size:6vw;text-shadow:0 0 .8vw #fff}
+.pana-number{color:#000;font-size:6vw;text-shadow:-0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, -0.1vw -0.1vw 0 #fff;}
 .resultname{height:11.5vw;font-weight: 800;font-size:4.7vw;line-height:1;padding-top:2.5vw;text-shadow:0 0 .7vw #fff}
 .starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
 .single-text,.single-text-jodi,.x-chart-div th,.xchart-date{vertical-align:middle!important}
