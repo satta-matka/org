@@ -2530,7 +2530,7 @@ td.HEADLINES{background-color:#ff1493}
 .time{font-family: monospace;align-items:center;justify-content:center;text-transform:uppercase}
 .brown-box{background-color:#f2cd98}
 .blue-box{background-color:#5bc0de}
-.pana{margin-bottom:4px;font-size:18px;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
+.pana{color: #000;margin-bottom:4px;font-size:18px;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
 .arrow{font-size:15px;margin-top:35px;margin-bottom:30px}
 .star-line{background:linear-gradient(to right,#f2cd98 50%,#5bc0de 50%)}
 .starline{height:60px;display:flex;justify-content:center;white-space:nowrap}
@@ -2576,7 +2576,7 @@ td.HEADLINES{background-color:#ff1493}
 .livepana{font-size:4.5vw;color:#333;}
 .livejodi{font-size:5vw;}
 .mobileShow{display:inline}
-.pana{margin-top:4vw;margin-bottom:4vw;font-size:7.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
+.pana{color: #000;margin-top:4vw;margin-bottom:4vw;font-size:7.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
 .pana-number{font-size:8vw!important;text-shadow:0 0 1vw #fff!important}
 .resultname{height:16vw;font-weight: 800;font-size:7.5vw;line-height:1;padding-top:8vw;padding-bottom: 8vw;text-shadow:0 0 .7vw #fff}
 .starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
@@ -2610,7 +2610,7 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .livepana{font-size:4.5vw;color:#333;}
 .livejodi{font-size:5vw;}
 .mobileShow{display:inline}
-.pana{margin-top:2.6vw;margin-bottom:2.6vw;font-size:4.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
+.pana{color: #000;margin-top:2.6vw;margin-bottom:2.6vw;font-size:4.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
 .pana-number{font-size:6vw;text-shadow:0 0 .8vw #fff}
 .resultname{height:11.5vw;font-weight: 800;font-size:4.7vw;line-height:1;padding-top:2.5vw;text-shadow:0 0 .7vw #fff}
 .starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
