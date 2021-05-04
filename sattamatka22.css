@@ -2529,7 +2529,7 @@ td.HEADLINES{background-color:#ff1493}
 .starline,.time{align-items:center}
 .brown-box{background-color:#f2cd98}
 .blue-box{background-color:#5bc0de}
-.time{font-size:11px;justify-content:center;text-transform:uppercase}
+.time{font-size:11px;font-family: monospace;justify-content:center;text-transform:uppercase}
 .pana{margin-bottom:4px;font-size:18px}
 .arrow{font-size:15px;margin-top:35px;margin-bottom:30px}
 .star-line{background:linear-gradient(to right,#f2cd98 50%,#5bc0de 50%)}
