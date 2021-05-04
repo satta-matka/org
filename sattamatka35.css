@@ -2546,7 +2546,7 @@ td.HEADLINES{background-color:#ff1493}
 #frequency:after{right:0;border-width:.5em .5em 0 0}
 .makeRed{color:red}
 .makeBlack{color:#000}
-.resultname{height:65px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800;text-shadow:0 0 3px #fff}
+.resultname{height:65px;display:flex;align-items:center;justify-content:center;font-size:22px;font-weight:800;text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff, 1px 1px 0 #fff, -1px -1px 0 #fff;}
 .livename {height: 27px;}
 .data-update {height: 27px;}
 .jodi-number{font-weight:800;}
@@ -2578,7 +2578,7 @@ td.HEADLINES{background-color:#ff1493}
 .mobileShow{display:inline}
 .pana{color: #000;margin-top:4vw;margin-bottom:4vw;font-size:7.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
 .pana-number{color:#000;font-size:8vw!important;text-shadow:-0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, -0.1vw -0.1vw 0 #fff;}
-.resultname{height:16vw;font-weight: 800;font-size:7.5vw;line-height:1;padding-top:8vw;padding-bottom: 8vw;text-shadow:0 0 .7vw #fff}
+.resultname{height:16vw;font-weight: 800;font-size:7.5vw;line-height:1;padding-top:8vw;padding-bottom: 8vw;text-shadow: -0.2vw 0.2vw 0 #fff, 0.2vw 0.2vw 0 #fff, 0.2vw 0.2vw 0 #fff, -0.2vw -0.2vw 0 #fff;}
 .starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
 .single-text,.single-text-jodi,.x-chart-div th,.xchart-date{vertical-align:middle!important}
 .single-text,.single-text-jodi{font-family:Comic Sans MS;text-shadow:.2vw .2vw #fff00e}
@@ -2612,7 +2612,7 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .mobileShow{display:inline}
 .pana{color: #000;margin-top:2.6vw;margin-bottom:2.6vw;font-size:4.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
 .pana-number{color:#000;font-size:6vw;text-shadow:-0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, -0.1vw -0.1vw 0 #fff;}
-.resultname{height:11.5vw;font-weight: 800;font-size:4.7vw;line-height:1;padding-top:2.5vw;text-shadow:0 0 .7vw #fff}
+.resultname{height:11.5vw;font-weight: 800;font-size:4.7vw;line-height:1;padding-top:2.5vw;text-shadow: -0.2vw 0.2vw 0 #fff, 0.2vw 0.2vw 0 #fff, 0.2vw 0.2vw 0 #fff, -0.2vw -0.2vw 0 #fff;}
 .starline{min-height: 15vw;max-height: 20.5vw;display: flex;align-items: center;justify-content: center;overflow: auto;white-space: nowrap;}
 .single-text,.single-text-jodi,.x-chart-div th,.xchart-date{vertical-align:middle!important}
 .single-text,.single-text-jodi{font-family:Comic Sans MS;text-shadow:.2vw .2vw #fff00e}
