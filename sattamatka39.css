@@ -2506,7 +2506,7 @@ table#daily tr,table#weekly th{border:1px solid #000}
 .customBox:checked~.three{background-color:#28a745;transform:translateY(-3.5em)}
 #bottommenu{position:fixed;bottom:0;width:100%;height:auto;-webkit-transition:bottom .5s;transition:bottom .5s}
 #bottomNav a{text-decoration:none;color:gray}
-#bottomNav ul li{list-style:none;padding-top:3px}
+#bottomNav ul li{list-style:none;padding-top:3px;width: fit-content;}
 .active_me{color:#ff1493}
 .active_me a{color:#ff1493!important}
 @keyframes shine{0%{background:silver;color:#000}
