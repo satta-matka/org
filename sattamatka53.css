@@ -2578,7 +2578,7 @@ td.HEADLINES{background-color:#ff1493}
 .laptopShow{display:none!important}
 .liveupdate{margin-top:-2.5vw;center:0px;z-index:999;font-weight:900;min-height:16.8vw;max-height:16.8vw;}
 .livename{font-size:4.5vw;padding:-2.5vw;color:#333;white-space: nowrap;}
-.livepana{font-size:4vw;color:#333;white-space: nowrap;}
+.livepana{font-size:4vw;color:#333;white-space: nowrap;height: 7vw;}
 .livejodi{font-size:4.5vw;white-space: nowrap;}
 .mobileShow{display:inline}
 .pana{color: #000;margin-top:4vw;margin-bottom:4vw;font-size:7.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
