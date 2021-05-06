@@ -2575,10 +2575,10 @@ td.HEADLINES{background-color:#ff1493}
 .jodi-btn,.pana-btn{font-size:5vw!important;padding:1vw 4vw;line-height:1.5!important;border-radius:1.2vw!important}
 .jodi-number{font-family: fantasy;font-size:16vw!important;text-shadow: -0.2vw 0.2vw 0 #fff, 0.2vw 0.2vw 0 #fff, 0.2vw 0.2vw 0 #fff, -0.2vw -0.2vw 0 #fff;!important}
 .laptopShow{display:none!important}
-.liveupdate{margin-top:-2vw;padding-top:0px;padding-bottom:0px;center:0px;z-index:999;font-weight:900;min-height:17vw;max-height:17vw;}
-.livename{font-size:5vw;color:#333;white-space: nowrap;}
-.livepana{font-size:4.5vw;color:#333;white-space: nowrap;}
-.livejodi{font-size:5vw;white-space: nowrap;}
+.liveupdate{margin-top:-3vw;center:0px;z-index:999;font-weight:900;min-height:16.8vw;max-height:16.8vw;}
+.livename{font-size:4.5vw;color:#333;white-space: nowrap;}
+.livepana{font-size:4vw;color:#333;white-space: nowrap;}
+.livejodi{font-size:4.5vw;white-space: nowrap;}
 .mobileShow{display:inline}
 .pana{color: #000;margin-top:4vw;margin-bottom:4vw;font-size:7.5vw;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -.1vw 0 #fff, 0 .1vw #fff, .1vw 0 #fff, 0 -.1vw #fff;}
 .pana-number{color:#000;font-size:8vw!important;text-shadow:-0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, 0.1vw 0.1vw 0 #fff, -0.1vw -0.1vw 0 #fff;}
