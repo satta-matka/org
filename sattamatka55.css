@@ -2464,7 +2464,7 @@ td.visible-print,th.visible-print{display:table-cell!important}
 
 /* Custom CSS Starts From Here */
 
-
+.smlogo{max-height:40px;max-width:100%}
 .blockquote{padding:10px;font-size:12px;background:#f5f5f5;border-style:ridge;border-color:#f50;border-radius:5px 20px;border-width:2px;width:50%;margin:0 auto;white-space:pre-line}
 .no-js #loader{display:none}
 .js #loader{display:block;position:absolute;left:100px;top:0}
@@ -2569,6 +2569,7 @@ td.HEADLINES{background-color:#ff1493}
  .top-navbar {height: 17vw;}
  .alert {padding: 2vw;}
  
+.smlogo{max-height: 9.3vw;max-width: 100%;vertical-align: middle;display: block;margin-left: auto;margin-right: auto;}
 .arrow{font-size:4.2vw;margin:9vw 7vw}
 .blue-box,.brown-box{height:98vw!important}
 .box-style{box-shadow:0 .3vw #a9a9a9;padding-bottom:1vw}
@@ -2603,6 +2604,7 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 @media only screen and (min-width: 321px) and (max-width: 480px) {
 #record{right:calc(50% - 15vw);top:55px;width:30vw;height:3vw;display:inline-block;font-size:2vw;-moz-transition:all .7s ease-in-out;-o-transition:all .7s ease-in-out;-webkit-transition:all .7s ease-in-out;transition:all .7s ease-in-out}
 
+ .smlogo{max-height: 10vw;max-width: 100%;vertical-align: middle;display: block;margin-left: auto;margin-right: auto;}
 .arrow{font-size:4.2vw;margin:9vw 7vw}
 .blue-box,.brown-box{border:.3vw solid #fff;height:66vw;padding:0}
 .box-style{box-shadow:0 .3vw #a9a9a9;padding-bottom:1vw}
