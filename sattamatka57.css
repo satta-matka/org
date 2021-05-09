@@ -2558,7 +2558,7 @@ td.HEADLINES{background-color:#ff1493}
 .result-div{min-height:35px;margin-bottom:-20px;}
 .marque-results{display:none;}
 .img-responsive {display: block; margin-left: auto;margin-right: auto;margin-top: 1vw; margin-bottom: 5vw; border: 2vw solid #fff;border-radius: 1vw;width: 60vw;height: 35vw;object-fit: cover;  object-position: 100% 0;background-color: white; box-shadow: 0 0.5vw 1vw 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);}
-
+.thumbnail {height: inherit;}
 
 @media only screen and (max-width:320px){
 .col-xs-6{width:100%!important}
