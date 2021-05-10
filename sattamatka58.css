@@ -2646,7 +2646,7 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 }
 
 
-@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/fontnew.woff2) format('woff2');font-weight:400;font-style:normal}
+@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font.woff2) format('woff2');font-weight:400;font-style:normal}
 .fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased;vertical-align:middle;}
 .fa-cc-visa:before{content:"\61";}
 .fa-commenting-o:before{content:"\62";}
@@ -2712,4 +2712,5 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .fa-star:before {content: "\34";}
 .fa-star-half-o:before {content: "\21";}
 .fa-star-o:before {content: "\22";}
+.fa-caret-down:before {  content: "\23";}
 
