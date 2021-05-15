@@ -2530,7 +2530,7 @@ td.HEADLINES{background-color:#ff1493}
 .time{font-family: monospace;align-items:center;justify-content:center;text-transform:uppercase;white-space: nowrap;display: block;}
 .brown-box{background-color:#f2cd98}
 .blue-box{background-color:#5bc0de}
-.pana{color: #000;margin-bottom:4px;5px 0 3px 0;font-size:18px;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
+.pana{color: #000;margin-bottom:4px;padding:5px 0 3px 0;font-size:18px;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;}
 .arrow{font-size:15px;margin-top:35px;margin-bottom:30px}
 .star-line{background:linear-gradient(to right,#f2cd98 50%,#5bc0de 50%)}
 .starline{height:60px;display:flex;justify-content:center;white-space:nowrap}
