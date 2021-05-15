@@ -2559,6 +2559,8 @@ td.HEADLINES{background-color:#ff1493}
 .marque-results{display:none;}
 .img-responsive {display: block; margin-left: auto;margin-right: auto;margin-top: 1vw; margin-bottom: 5vw; border: 2vw solid #fff;border-radius: 1vw;width: 60vw;height: 35vw;object-fit: cover;  object-position: 100% 0;background-color: white; box-shadow: 0 0.5vw 1vw 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);}
 .thumbnail {height: inherit;}
+.ads {display: flex;align-items: center;justify-content: center;}
+.verticaltext{width:7px;word-wrap: break-word;white-space:pre-wrap;margin: auto;}
 
 @media only screen and (max-width:320px){
 .col-xs-6{width:100%!important}
@@ -2596,8 +2598,11 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .vertical-data{font-size:2.7vw!important;text-align:center}
 .vertical-data br:first-child{display:none}
 .xchart-date{font-size:2.5vw!important;text-align:center!important;padding-top:.5vw!important;padding-bottom:.5vw!important}
-.x-chart-div th{font-size:3vw!important;text-align:center;background-color:#fff;border-bottom:1px solid #000;height:7vw;position:sticky;position:-webkit-sticky;box-shadow:0 4px 2px -2px #000;top:55px;font-weight:700;padding-top:2vw;}}
-.sub-number-light {height: 60px;}
+.x-chart-div th{font-size:3vw!important;text-align:center;background-color:#fff;border-bottom:1px solid #000;height:7vw;position:sticky;position:-webkit-sticky;box-shadow:0 4px 2px -2px #000;top:55px;font-weight:700;padding-top:2vw;}
+.ads {display: flex;align-items: center;justify-content: center;}
+.verticaltext{width:4vw;word-wrap: break-word;white-space:pre-wrap;margin: auto;}
+.sub-number-light {height: 60px;}}
+
 
 
 
@@ -2632,7 +2637,8 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .vertical-data br:first-child{display:none}
 .xchart-date{font-size:2.5vw!important;text-align:center!important;padding-top:.5vw!important;padding-bottom:.5vw!important}
 .x-chart-div th{font-size:3vw!important;text-align:center;background-color:#fff;border-bottom:1px solid #000;height:7vw;position:sticky;position:-webkit-sticky;box-shadow:0 4px 2px -2px #000;top:55px;font-weight:700;padding-top:2vw;}
-}
+.ads {display: flex;align-items: center;justify-content: center;}
+.verticaltext{width:2vw;word-wrap: break-word;white-space:pre-wrap;margin: auto;}}
 
 
 @media only screen and (min-width:481px){
