@@ -2561,7 +2561,7 @@ td.HEADLINES{background-color:#ff1493}
 .thumbnail {height: inherit;}
 .ads {display: flex;align-items: center;justify-content: center;}
 .verticaltext{width:7px;word-wrap: break-word;white-space:pre-wrap;margin: auto;}
-.weeklychart {max-width: 500px;width: 100%;table-layout: fixed;border:1px;text-align:center }
+.weeklychart {max-width: 500px;width: 100%;table-layout: fixed;border:1px;text-align:center;margin: auto;  display: flex; justify-content: center; align-items: center; }
 
 @media only screen and (max-width:320px){
 .col-xs-6{width:100%!important}
