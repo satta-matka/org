@@ -1003,6 +1003,7 @@ button.close{
     height:50px;
     overflow:scroll
 }
+@media (min-width:768px){
 .modal-dialog{
     width:600px;
     margin:30px auto
@@ -1010,7 +1011,7 @@ button.close{
 .modal-content{
     -webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);
     box-shadow:0 5px 15px rgba(0,0,0,.5)
-}
+    }}
 .box-style,.starline{
     box-shadow:0 1px #a9a9a9
 }
