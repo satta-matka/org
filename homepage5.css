@@ -928,6 +928,8 @@ button.close{
     background:0 0;
     border:0
 }
+@media only screen and (max-width:992px){.modal{width:80%}
+}
 .modal{
     position:fixed;
     z-index:1050;
