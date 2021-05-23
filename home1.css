@@ -64,7 +64,7 @@ button:active,button:focus,input01[type=button]:active,input01[type=button]:focu
 #main-menu ul ul{display:none}
 #main-menu>ul>li>a{padding:15px 20px;border-bottom:1px solid #eee;cursor:pointer;z-index:2;text-decoration:none;color:#444}
 #main-menu>ul>li>a i.fa{display:inline-block;width:20px;color:#999;margin-right:1rem}
-#main-menu>ul>li.has-sub>ul{border-bottom:1px solid #eee}
+#main-menu>ul>li.has-sub>ul{border-bottom:1px solid #eee;white-space: nowrap;}
 #main-menu ul ul li a{cursor:pointer;padding:10px 20px 10px 58px;z-index:1;text-decoration:none;color:#222}
 #main-menu ul ul li:first-child>a{box-shadow:none}
 #main-menu>ul>li>ul>li.last>a,#main-menu>ul>li>ul>li.open:last-child>ul>li:last-child>a,#main-menu>ul>li>ul>li:last-child>a{border-bottom:0}
