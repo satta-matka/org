@@ -323,7 +323,7 @@ td.HEADLINES{background-color:#ff1493}
 .verticaltext{width:7px;word-wrap:break-word;white-space:pre-wrap;margin:auto}
 .weeklychart{max-width:500px;width:100%;table-layout:fixed;border:1px;text-align:center;margin:auto;justify-content:center;align-items:center}
 .weeklychart td{height:166px}
-.monthlychart{table-layout: fixed; width:100%; border:2px;height:160px;}
+.monthlychart{table-layout: fixed; width:100%; border:2px;height:160px;color: #000;}
 .monthly1{background-color: #E6E6FA; text-align:center;border:2px solid #000;}
 .monthly2{background-color: #8FBC8F; text-align:center;border:2px solid #000;}
 @media only screen and (max-width:320px) {
