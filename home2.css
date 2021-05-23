@@ -323,6 +323,7 @@ td.HEADLINES{background-color:#ff1493}
 .verticaltext{width:7px;word-wrap:break-word;white-space:pre-wrap;margin:auto}
 .weeklychart{max-width:500px;width:100%;table-layout:fixed;border:1px;text-align:center;margin:auto;justify-content:center;align-items:center}
 .weeklychart td{height:166px}
+#bottom: 65px;
 @media only screen and (max-width:320px) {
 .col-xs-6{width:100%!important}
 .col-xs-3{min-height:.2vw!important;padding-right:3vw!important;padding-left:3vw!important}
