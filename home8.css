@@ -326,7 +326,7 @@ td.HEADLINES{background-color:#ff1493}
 .monthlychart{table-layout: fixed; width:100%; border:2px;height:160px;color: #000;}
 .monthly1{background-color: #E6E6FA; text-align:center;border:2px solid #000;}
 .monthly2{background-color: #8FBC8F; text-align:center;border:2px solid #000;}
-.resultbox{table-layout: fixed; width:90%;}
+.resultbox{table-layout: fixed; width:90%;margin-left: auto;margin-right: auto;}
 @media only screen and (max-width:320px) {
 .col-xs-6{width:100%!important}
 .col-xs-3{min-height:.2vw!important;padding-right:3vw!important;padding-left:3vw!important}
