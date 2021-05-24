@@ -161,6 +161,7 @@ input[type=checkbox],input[type=radio]{margin:4px 0 0;line-height:normal}
 .smlogo{max-height:10vw;max-width:100%;vertical-align:middle;display:block;margin-left:auto;margin-right:auto}
 .mobileShow{display:inline}
 .mobileShow{display:none!important}
+@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font.woff2) format('woff2');font-weight:400;font-style:normal;font-display: swap;}
 .fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased;vertical-align:middle}
 .fa-cc-visa:before{content:"\61"}
 .fa-commenting-o:before{content:"\62"}
