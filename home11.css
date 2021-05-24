@@ -294,7 +294,7 @@ td.HEADLINES{background-color:#ff1493}
 .arrow{font-size:15px;margin-top:35px;margin-bottom:30px}
 .star-line{background:linear-gradient(to right,#f2cd98 50%,#5bc0de 50%)}
 .starline{height:60px;display:flex;justify-content:center;white-space:nowrap}
-#cell-1-table{width:80%;max-width:200px;margin-top:10px}
+#cell-1-table{width:90%;max-width:200px;margin-top:10px}
 #cell-1-table caption,th{text-align:center}
 .frequency{width:130px;left:50%;transform:translateX(-50%);padding:.1em;position:relative;letter-spacing:.1em;text-shadow:0 -1px 0 rgba(0,0,0,.3);background:-webkit-linear-gradient(right,#c00,red,#c00);display:inline-block;margin-top:5px}
 #frequency:after,#frequency:before,.frequency:after,.frequency:before{content:"";bottom:-.5em;position:absolute;display:block}
