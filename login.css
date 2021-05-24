@@ -198,3 +198,4 @@ input[type=checkbox],input[type=radio]{margin:4px 0 0;line-height:normal}
 .fa-youtube:before{content:"\5a"}
 .fa-chevron-up:before{content:"\32"}
 .fa-bars:before{content:"\4b"}
+.fa-caret-down:before {  content: "\23";}
