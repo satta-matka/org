@@ -280,7 +280,7 @@ table#daily tr,table#weekly th{border:1px solid #000}
 .loader__dot:nth-child(3){animation-delay:.5s}
 table#daily td,table#daily th{text-align:center;border:1px solid #000;color:#333}
 table#weekly th{color:#333;text-align:center}
-.frequency,td.HEADLINES{color:#fff;text-align:center}
+.frequency,td.HEADLINES{color:#fff;text-align:center;    text-shadow: 0 0 black;}
 td.HEADLINES{background-color:#ff1493}
 .box-style{padding-bottom:5px}
 .blue-box,.brown-box{border:1px solid #fff;height:275px;padding:0}
