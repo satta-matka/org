@@ -846,7 +846,6 @@ input01[type=search]::-webkit-search-cancel-button,input01[type=search]::-webkit
 input01:not([type]):focus:not([readonly]),input01[type=date]:focus:not([readonly]),input01[type=datetime-local]:focus:not([readonly]),input01[type=email]:focus:not([readonly]),input01[type=number]:focus:not([readonly]),input01[type=password]:focus:not([readonly]),input01[type=search]:focus:not([readonly]),input01[type=tel]:focus:not([readonly]),input01[type=text]:focus:not([readonly]),input01[type=time]:focus:not([readonly]),input01[type=url]:focus:not([readonly]),textarea.materialize-textarea:focus:not([readonly]){-webkit-box-shadow:none;-moz-box-shadow:none;outline:0;background-image:none}
 body{background:#efefef}
 body::-webkit-scrollbar{display:none}
-h1,h2,h3,h4,h5,h6{font-weight:500;margin:0;padding:0}
 .bold,blockquote cite{font-weight:700}
 .line,address{margin-bottom:20px}
 ol,ul{padding-left:15px}
