@@ -228,11 +228,11 @@ button.close{-webkit-appearance:none;padding:0;cursor:pointer;background:0 0;bor
 .se-pre-con{position:fixed;left:0;top:0;width:100%;height:100%;z-index:9999}
 .heading, .heading h2,.heading h3,.topic{background-color:#ff1493;color:#fff;text-align:center;margin-top:0;margin-bottom:0;display: flex;justify-content: center; align-items: center;}
 .topic{padding-top:6px;font-size:36px!important;display:flex;justify-content:center;align-items:center}
-.heading h2,.text{padding-bottom:3px}
+.heading h2{padding-bottom:3px}
 .heading h2{padding-top:6px;font-size:30px!important}
 .heading h3,.text{padding-bottom:3px}
 .heading h3{padding-top:6px;font-size:25px!important}
-.text{text-align:justify;border:4px solid #ff1493;padding-top:3px}
+.text{text-align:justify;border:4px solid #ff1493;padding-top:3px;justify-content: center;align-items: center;}
 table.x-chart-div{background-color:#fff;max-width:500px;border:5px solid #5d26a5;border-bottom:none;border-top:none;align:center!important;text-align:center!important;table-layout:fixed;margin:0 auto;width:100%}
 .single-text,.single-text-jodi,.vertical-data,.x-chart-div th,.xchart-date{text-align:center;font-weight:700}
 .single-text-jodi{font-size:25px!important;text-align:center;font-weight:bold;border:1px solid #000}
