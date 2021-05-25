@@ -37,7 +37,6 @@ button,input01,optgroup,select,textarea{color:inherit;font:inherit;margin:0;heig
 button,html input01[type=button],input01[type=reset],input01[type=submit]{-webkit-appearance:button;cursor:pointer}
 body{background:#efefef}
 body::-webkit-scrollbar{display:none}
-h1,h2,h3,h4,h5,h6{font-weight:500;margin:0;padding:0}
 ol,ul{padding-left:15px}
 ul li{list-style-type:disc}
 ol li,ul li{list-style-position:inside}
@@ -97,7 +96,6 @@ body,figure{margin:0}
 html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
 a{background-color:transparent}
 a:active,a:hover{outline:0}
-h1{margin:.67em 0}
 sub,sup{position:relative;font-size:75%;line-height:0}
 sup{top:-.5em}
 img{vertical-align:middle}
