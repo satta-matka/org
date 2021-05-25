@@ -364,7 +364,6 @@ html{line-height:1.5;font-weight:400;color:rgba(0,0,0,.87)}
 }
 @media only screen and (min-width:1200px){html{font-size:15px}
 }
-h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-weight:inherit}
 em{font-style:italic}
 .light,footer.page-footer .footer-copyright{font-weight:300}
 .thin{font-weight:200}
@@ -1295,7 +1294,6 @@ audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
 audio:not([controls]){display:none;height:0}
 a{background-color:transparent}
 a:active,a:hover{outline:0}
-h1{margin:.67em 0}
 mark{background:#ff0}
 sub,sup{position:relative;font-size:75%;line-height:0}
 sup{top:-.5em}
