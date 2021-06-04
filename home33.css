@@ -413,7 +413,7 @@ table.x-chart-div{background-color:#fff;border:.7vw solid #5d26a5;border-bottom:
 .livejodi{font-size:20px}
 #record{right:calc(50% - 75px);top:55px;width:150px;height:15px;display:inline-block;font-size:10px;-moz-transition:all .7s ease-in-out;-o-transition:all .7s ease-in-out;-webkit-transition:all .7s ease-in-out;transition:all .7s ease-in-out}
 }
-@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font.woff2) format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:untitled-font-1;src:url(https://cdn.jsdelivr.net/gh/satta-matka/org/font.woff2) format("woff2");font-weight:400;font-style:normal;font-display: block;}
 .fa{display:inline-block;font:normal normal normal 14px/1 untitled-font-1;font-size:inherit;-webkit-font-smoothing:antialiased;vertical-align:middle}
 .fa-cc-visa:before{content:"\61"}
 .fa-commenting-o:before{content:"\62"}
